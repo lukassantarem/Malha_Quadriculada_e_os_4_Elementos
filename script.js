@@ -1153,7 +1153,7 @@ const historiaDesfecho = [
     {
         titulo: "1. A Derrota do Senhor Raio",
         imagem: "Sr_Raio_Derrotado.png",
-        texto: "Após uma intensa batalha, o Princípe Milo e a Princesa Mia conseguiram derrotar o Senhor Raio.\nCansado e sem forças, ele caiu diante dos dois. Por um momento, o poderoso vilão permaneceu em silêncio, até finalmente revelar o que sentia:\n\n - Eu só... queria ser reconhecido...\n\nMilo e Mia perceberam que, por trás de toda aquela raiva, havia alguém que se sentia sozinho e excluído."
+        texto: "Após uma intensa batalha, o Princípe Nilo e a Princesa Mia conseguiram derrotar o Senhor Raio.\nCansado e sem forças, ele caiu diante dos dois. Por um momento, o poderoso vilão permaneceu em silêncio, até finalmente revelar o que sentia:\n\n - Eu só... queria ser reconhecido...\n\nNilo e Mia perceberam que, por trás de toda aquela raiva, havia alguém que se sentia sozinho e excluído."
     },
     {
         titulo: "2. O Arrependimento",
@@ -1173,12 +1173,12 @@ const historiaDesfecho = [
     {
         titulo: "5. A Harmonia dos Elementos",
         imagem: "A_Harmonia_dos_Elementos.png",
-        texto: "Com os poderes restaurados, os quatro elementos voltaram a coexistir em harmonia. A Terra voltou a florescer, o Fogo recuperou sua força, as Águas voltaram a correr livremente e os Ventos sopraram novamente pelos céus. E, ao lado deles, o Senhor Raio passou a ser reconhecido como um membro importante do reino. Ele não precisava ser um elemento para fazer parte daquela união. Terra, Fogo, Água, Ar e Raio aprenderam que suas diferenças não os separavam. Pelo contrário, juntos, seus poderes tornavam o mundo mais completo. Milo e Mia haviam descoberto que a verdadeira harmonia não significa que todos precisam ser iguais. Significa aprender a respeitar, aceitar e coexistir com as diferenças."
+        texto: "Com os poderes restaurados, os quatro elementos voltaram a coexistir em harmonia. A Terra voltou a florescer, o Fogo recuperou sua força, as Águas voltaram a correr livremente e os Ventos sopraram novamente pelos céus. E, ao lado deles, o Senhor Raio passou a ser reconhecido como um membro importante do reino. Ele não precisava ser um elemento para fazer parte daquela união. Terra, Fogo, Água, Ar e Raio aprenderam que suas diferenças não os separavam. Pelo contrário, juntos, seus poderes tornavam o mundo mais completo. Nilo e Mia haviam descoberto que a verdadeira harmonia não significa que todos precisam ser iguais. Significa aprender a respeitar, aceitar e coexistir com as diferenças."
     },
     {
         titulo: "Obrigado por jogar!",
         imagem: "Tela_Obrigado.png",
-        texto: "Você ajudou Milo e Mia a restaurarem o equilíbrio e a união dos quatro elementos!\n\nNenhum elemento é mais importante que o outro. Juntos, eles mantêm o mundo em harmonia."
+        texto: "Você ajudou Nilo e Mia a restaurarem o equilíbrio e a união dos quatro elementos!\n\nNenhum elemento é mais importante que o outro. Juntos, eles mantêm o mundo em harmonia."
     }
 ];
 
