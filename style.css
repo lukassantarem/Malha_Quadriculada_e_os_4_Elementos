@@ -413,7 +413,7 @@ body {
     margin-top: 14px !important;
 }
 
-/* AJUSTE 2: MUNDO 4 - VALE DA ESCALA (LEGIBILIDADE E TEXTO CORRIGIDO) */
+/* AJUSTE 2: MUNDO 4 - VALE DA ESCALADA (LEGIBILIDADE E TEXTO CORRIGIDO) */
 
 #scale-screen .game-card {
     transform: none !important;
@@ -843,16 +843,14 @@ audio {
 /* FEEDBACK DE ACERTO E ERRO */
 .feedback-success {
     color: #2ecc71 !important;
-    background-color: rgba(46, 204, 113, 0.16);
-    border: 2px solid #2ecc71;
+    border: 1px solid #2ecc71;
     padding: 6px 12px;
     border-radius: 6px;
 }
 
 .feedback-error {
-    color: #ff5252 !important;
-    background-color: rgba(255, 82, 82, 0.16);
-    border: 2px solid #ff5252;
+    color: #ff4d4d !important;
+    border: 1px solid #ff4d4d;
     padding: 6px 12px;
     border-radius: 6px;
 }
